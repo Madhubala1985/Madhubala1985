@@ -48,7 +48,8 @@ per class, compared with centralized few-shot learning and FedAvg across backbon
 | [Deep Learning Image Classification](https://github.com/Madhubala1985/Deep_Learning_Image_Classification) | 20-class CNN in PyTorch with augmentation, scheduling and early stopping |
 | [Multi-Agent Swarm Simulator](https://github.com/Madhubala1985/Multi-agent-swarm-simulator) | Boids-style swarm behaviours plus PSO/ACO experiments |
 | [APMC Farm Market](https://github.com/Madhubala1985/APMC_Farm_market) | Farm-to-market platform with live auctions (React, TypeScript, Supabase) |
-| [AI Automated Web Scraper](https://github.com/Madhubala1985/AI_Automated_Webscrapper) | Web app for automated scraping and lead-generation workflows |
+| [Flask Task Manager](https://github.com/Madhubala1985/todo-flask-app) | Multi-user Flask app with authentication, per-user access control and a pytest suite |
+| [Directory Scraper Planner](https://github.com/Madhubala1985/AI_Automated_Webscrapper) | React prototype for planning scraping and lead-generation workflows |
 
 ---
 
